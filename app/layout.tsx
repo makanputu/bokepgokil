@@ -9,7 +9,7 @@ const font = Nunito({ subsets: ["latin"] });
 export const metadata: Metadata = {
     title: `${SITENAME} - Video Bokep Indo Viral Terbaru`,
     description: `${SITENAME} Video Bokep Indo Jepang Jav Barat Simontok Viral Terbaru Bocil Ngentot Jilbab Smp Mama Sma korea china tante live paksa ngentot abg cewek pijat.`,
-    metadataBase: new URL("https://bokepgokil.pages.dev"),
+    metadataBase: new URL("https://bokepgokil-51j.pages.dev"),
     alternates: {
         canonical: `/`,
     },
@@ -21,7 +21,7 @@ export const metadata: Metadata = {
     },
     verification: {
         google: 'BS8pvW985G89_Sx0JPVHYvLkMqz8G34fH99WgrIMRzI',
-        yandex: '0662a95e50e64686',
+        yandex: '812577788e1261fc',
     },
 };
 
@@ -37,12 +37,12 @@ export default function RootLayout({
         "@type": "Organization",
         "name": `${SITENAME}`,
         "description": `${SITENAME} Video Bokep Indo Jepang Jav Barat Simontok Viral Terbaru Bocil Ngentot Jilbab Smp Mama Sma korea china tante live paksa ngentot abg cewek pijat.`,
-        "logo": "https://bokepgokil.pages.dev/favicon.ico",
-        "url": "https://bokepgokil.pages.dev",
+        "logo": "https://bokepgokil-51j.pages.dev/favicon.ico",
+        "url": "https://bokepgokil-51j.pages.dev",
         "founder":{
             "@type":"Person",
             "name":"admin",
-            "url":"https://bokepgokil.pages.dev"
+            "url":"https://bokepgokil-51j.pages.dev"
             },
             "foundingDate":"2024-08-29"
         }
@@ -50,22 +50,22 @@ export default function RootLayout({
             "@context": "https://schema.org",
         "@type": "WebPage",
         "name": `${SITENAME}`,
-        "url": "https://bokepgokil.pages.dev",
+        "url": "https://bokepgokil-51j.pages.dev",
         "description": `${SITENAME} Video Bokep Indo Jepang Jav Barat Simontok Viral Terbaru Bocil Ngentot Jilbab Smp Mama Sma korea china tante live paksa ngentot abg cewek pijat.`,
-        "image": "https://bokepgokil.pages.dev/favicon.ico",
+        "image": "https://bokepgokil-51j.pages.dev/favicon.ico",
         "potentialAction":{
             "@type":"ReadAction",
-            "target":"https://bokepgokil.pages.dev"}
+            "target":"https://bokepgokil-51j.pages.dev"}
         }
         const jsonLd2 = {
             "@context": "https://schema.org",
         "@type": "WebSite",
         "name": `${SITENAME}`,
-        "url": "https://bokepgokil.pages.dev",
+        "url": "https://bokepgokil-51j.pages.dev",
         "description": `${SITENAME} Video Bokep Indo Jepang Jav Barat Simontok Viral Terbaru Bocil Ngentot Jilbab Smp Mama Sma korea china tante live paksa ngentot abg cewek pijat.`,
         "potentialAction": { 
         "@type": "SearchAction", 
-          "target": "https://bokepgokil.pages.dev/?q={search_term}", 
+          "target": "https://bokepgokil-51j.pages.dev/?q={search_term}", 
             "query-input": "required name=search_term"}
         }
     return (
