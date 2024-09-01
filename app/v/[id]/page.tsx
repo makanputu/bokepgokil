@@ -88,7 +88,7 @@ const jsonLd = {
         name: `${file.title} - ${SITENAME}`,
         thumbnailUrl: file.splash_img,
         description: `${file.title} di ${SITENAME} Video Bokep Indo Jepang Jav Barat Simontok Viral Terbaru Bocil Ngentot Jilbab Smp Mama Sma`,
-        url: `https://bokepgokil.pages.dev/v/${file.filecode}`,
+        url: `https://bokepgokil-51j.pages.dev/v/${file.filecode}`,
         embedUrl: `https://${upstream}/e/${file.filecode}`,
         uploadDate: new Date(
             file.uploaded + ".000Z"
@@ -98,7 +98,7 @@ const jsonLd = {
                 userInteractionCount: `${file.views}`,
             interactionType: {
                 '@type': `WatchAction`,
-                target: `https://bokepgokil.pages.dev/v/${file.filecode}`
+                target: `https://bokepgokil-51j.pages.dev/v/${file.filecode}`
             }  
         }
         }
@@ -108,25 +108,25 @@ const jsonLd = {
         headline: `${file.title} - ${SITENAME}`,
         image: file.splash_img,
         description: `${file.title} di ${SITENAME} Video Bokep Indo Jepang Jav Barat Simontok Viral Terbaru Bocil Ngentot Jilbab Smp Mama Sma`,
-        url: `https://bokepgokil.pages.dev/v/${file.filecode}`,
+        url: `https://bokepgokil-51j.pages.dev/v/${file.filecode}`,
         datePublished: new Date(
             file.uploaded + ".000Z"
         ).toISOString(),
         publisher: {
             '@type': 'Organization',
             name: `${SITENAME}`,
-            logo: 'https://bokepgokil.pages.dev/favicon.ico'},
+            logo: 'https://bokepgokil-51j.pages.dev/favicon.ico'},
             author: {
                 '@type': 'Person',
                 name: 'admin',
-                url: 'https://bokepgokil.pages.dev'
+                url: 'https://bokepgokil-51j.pages.dev'
               },
         interactionStatistic: {
             '@type': `InteractionCounter`,
                 userInteractionCount: `${file.views}`,
             interactionType: {
                 '@type': `ReadAction`,
-                target: `https://bokepgokil.pages.dev/v/${file.filecode}`
+                target: `https://bokepgokil-51j.pages.dev/v/${file.filecode}`
             }  
         }
         }
